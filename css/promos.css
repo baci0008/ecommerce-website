@@ -1,3 +1,22 @@
 @charset "UTF-8";
 /* Promos */
 
+/* Small */
+
+.img-flex {
+	display: block;
+	width: 100%;
+}
+
+.product {
+	background-color: #F0F0F0;
+	border-radius: 8px;
+	padding: 1em;
+}
+
+.list-group-item {
+	float: right;
+}
+
+
+/* Large */
