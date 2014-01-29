@@ -75,12 +75,12 @@ small, .milli {
 
 h1, h2, h3, h4, h5, h6,
 .brand {
-	font-family: Verdana, Geneva, sans-serif;
+	font-family: 'bebas_neueregular';
 	color: rgba(204,179,4,1);
 }
 
 .brand-family {
-	font-family: Verdana, Geneva, sans-serif;
+	font-family: 'bebas_neueregular';
 }
 
 .brand-color {
