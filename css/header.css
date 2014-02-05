@@ -20,7 +20,7 @@ html{
 
 .masthead {
 	height: 17rem;
-	background-color: #999;
+	background-color: rgba(204,179,4,.8);
 	padding: 5%;
 }
 
