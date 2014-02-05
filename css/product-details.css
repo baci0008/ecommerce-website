@@ -1,3 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.list-group-item{
+	padding: 1rem;
+}
+
+.bottom{
+	padding: 2rem;
+}
