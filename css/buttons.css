@@ -41,6 +41,7 @@
 	text-decoration:none;
 	text-shadow:0px 1px 0px #000;
 }
+
 .button2:hover {
 	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #FFF), color-stop(1, rgba(204,36,131,1));
 	background:-moz-linear-gradient(top, #FFF 5%, rgba(204,36,131,1) 100%);
@@ -51,6 +52,7 @@
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF', endColorstr=' rgba(204,36,131,1)',GradientType=0);
 	background-color:#FFF;
 }
+
 .button2:active {
 	position:relative;
 	top:1px;
