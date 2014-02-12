@@ -15,18 +15,19 @@
 	font-size: 1rem;
 }	
 
-.social{
-}
-
 .social img {
 	width: 4.5rem;
 }
 
 .social li {
 	display: inline;
-	margin:1rem;
+	margin: 1rem;
 }
 
 .social li:nth-child(2n+2) {
 	margin-right: 0;
-}		
+}
+
+a, a:link{
+	border: none;
+}
