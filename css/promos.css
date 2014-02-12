@@ -12,6 +12,10 @@
 	background-color: #F0F0F0;
 	border-radius: 8px;
 	padding: 1em;
+	border-style:solid;
+	border-width:10px;
+	border-color:#fff;
+	box-shadow: 1px 1px 5px #888888;
 }
 
 .list-group-item {
