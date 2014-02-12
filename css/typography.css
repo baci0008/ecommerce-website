@@ -13,9 +13,8 @@
  */
  
  html{
-	font: normal 100%/1.5 Verdana, Geneva, sans-serif, /* 16px/24px */
+	font: normal 100%/1.5 'bebas_neueregular', sans-serif, /* 16px/24px */
 }
-
 
 h1, h2, h3, h4, h5, h6 
 p, ul, ol, dl, blockquote,
@@ -248,7 +247,6 @@ dd {
 	padding-left: 50px;
 }
 
-
 /* Blockquotes */
 blockquote.style {
   margin-top: 10px;
@@ -257,7 +255,6 @@ blockquote.style {
   padding-left: 15px;
   border-left: 3px solid #ccc;
 } 
-
 
 /* Table */
 .table{
@@ -286,5 +283,3 @@ blockquote.style {
 .table tr:last-child{
 	border-bottom: 3px solid #0CC;
 }
-
-
