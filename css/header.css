@@ -18,14 +18,14 @@ html{
 /* CSS */
 
 .masthead {
-	height: 17rem;
-	background-color: rgba(204,179,4,.8);
+	height: 16rem;
+	background-color: rgba(204,179,4,.4);
 	padding: 5%;
 }
 
 .logo {
 	margin: auto;
-	width: 80px;
+	width: 80%;
 	padding-bottom: 1rem;
 }
 
