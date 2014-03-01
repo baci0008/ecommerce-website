@@ -3,31 +3,29 @@
 
 /* Footer */
 
-.bottom {
-	background-color: #CCC;
-	height: 15rem;
-	padding: 1.5rem 10%;
+.footer {
+  background-color: #eae8e1;
 }
 
-.bottom p {
-	float:left;
-	color: #FFF;
-	font-size: 1rem;
-}	
-
-.social img {
-	width: 4.5rem;
+.footer-copyright,
+.footer-links {
+  text-align: center;
 }
 
-.social li {
-	display: inline;
-	margin: 1rem;
+.footer-links a,
+.footer-links a:link,
+.footer-links a:visited {
+  border: 0;
 }
 
-.social li:nth-child(2n+2) {
-	margin-right: 0;
-}
+@media only screen and (min-width: 50em) {
 
-a, a:link{
-	border: none;
+  .footer-copyright {
+    text-align: left;
+  }
+
+  .footer-links {
+    text-align: right;
+  }
+
 }

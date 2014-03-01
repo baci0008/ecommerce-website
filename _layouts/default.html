@@ -23,16 +23,16 @@
 
 
 <body>
-<header class="masthead grid">
+	<header class="masthead">
 			<div class="logo">
 				<img src= "../images/logo.svg" alt="logo">
 			</div>
 			<a href="#nav" class="nav-btn hide-text">Navigation</a>
 			<nav class="nav nav-top" data-state="collapsed">
 				<ul>
-					<li><a href="header.html" class="giga">Home</a></li>
-					<li><a href="#" class="giga">Catalog</a></li>
-					<li><a href="#" class="giga">Contact</a></li>
+					<li><a href="{{site.baseurl}}/" class="giga">Home</a></li>
+					<li><a href="{{site.baseurl}}/about" class="giga">About</a></li>
+					<li><a href="{{site.baseurl}}/catalog" class="giga">Catalog</a></li>
 				</ul>
 			</nav>
 			
@@ -47,7 +47,18 @@
 
 {{content}}
 
-
+	<footer class="bottom grid">
+		<div class="unit unit-s-1 unit-m-1-2 unit-l-2-3">
+			<p>© TB2013 | Phone 613.400.1937 | Email:<a href="mailto:baci0008@algonquinlive.com">baci0008@algonquinlive.com</a></p>		
+		</div>
+		<div class="unit gutter unit-s-1 unit-m-1-2 unit-l-1-3">
+		<ul class="social">
+			<li><a href="http://www.linkedin.com/pub/thalia-bacilio-rojano/64/894/447"><img src="../images/linkedin.svg"></a></li>
+			<li><a href="https://twitter.com/ThaliaBacilio"><img src="../images/twitter.svg"></a></li>
+		</ul>
+		</div>
+	
+	</footer>
 
 </body>
 </html>
