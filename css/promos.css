@@ -1,6 +1,14 @@
 @charset "UTF-8";
 /* Promos */
 
+.promo-small {
+	background-color: #000;
+	border-radius: 10px;
+	color: #FFF;
+	font-size: 20px;
+	font-family:"Helvetica Neue", Arial, sans-serif;
+}
+
 .img-flex {
 	display: block;
 	width: 100%;
