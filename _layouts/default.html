@@ -30,11 +30,12 @@
 			<a href="#nav" class="nav-btn hide-text">Navigation</a>
 			<nav class="nav nav-top" data-state="collapsed">
 				<ul>
-					<li><a href="{{site.baseurl}}/" class="giga">Home</a></li>
-					<li><a href="{{site.baseurl}}/about" class="giga">About</a></li>
-					<li><a href="{{site.baseurl}}/catalog" class="giga">Catalog</a></li>
+					<li class="giga"><a class="{% if page.url == '/' %}current{% endif %}" href="{{site.baseurl}}/">Home</a></li>
+					<li class="giga"><a class="{% if page.url == '/about/' %}current{% endif %}" href="{{site.baseurl}}/about/">About</a></li>
+					<li class="giga"><a class="{% if page.url contains 'catalog' %}current{% endif %}" href="{{site.baseurl}}/catalog/">Catalog</a></li>
 				</ul>
 			</nav>
+			
 			
 			<div class="lighter">
 				<form>

@@ -39,6 +39,11 @@ white-space: nowrap;
 overflow: hidden;
 }
 
+.current {
+	background-color: #C96;
+	height: 50rem;
+}
+
 /* Navigation Styles */
 
 .nav-btn,
