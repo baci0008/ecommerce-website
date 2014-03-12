@@ -40,8 +40,7 @@ overflow: hidden;
 }
 
 .current {
-	background-color: #C96;
-	height: 50rem;
+	background-color: rgba(204,36,131,1);
 }
 
 .banner {
@@ -101,7 +100,6 @@ overflow: hidden;
 	text-align:center;
 	color: #fff;
 	text-decoration: none;
-	background-color: #000;
 	font-family: 'bebas_neueregular';
 }
 
