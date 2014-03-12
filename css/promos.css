@@ -15,7 +15,7 @@
 }
 
 .product {
-	background-color: #F0F0F0;
+	background-color: #000;
 	border-radius: 8px;
 	padding: 1em;
 	border-style:solid;
@@ -23,6 +23,7 @@
 	border-color:#fff;
 	box-shadow: 1px 1px 5px #888888;
 	height: auto;
+	color: #FFF;
 }
 
 .list-group-item {
