@@ -1,8 +1,16 @@
 ---
 layout: default
 title: About
-meta: A website about a healthy lifestyle, organic fruits are in and are consumers best choice. 
+meta: A website about a healthy lifestyle, organic fruits are in and are consumers best choice.
+showbanner: yes
+bannertext: Fresh all year long! 
 ---
+
+{% if page.showbanner %}
+<div class="banner2">
+    <h1 class="zetta">{{page.bannertext}}</h3>	
+</div>
+{% endif %}
 
 <div class="grid">
 	<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3"> 

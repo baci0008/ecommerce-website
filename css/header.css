@@ -55,6 +55,18 @@ overflow: hidden;
 	color: #FFF;
 }
 
+
+.banner2 {
+	background: #6e9d1b url("../images/banner2.jpg") no-repeat center center;
+	background-size: cover;
+	padding: 5rem 1rem 1rem;
+	text-align: center;
+}
+
+.banner2 h1 {
+	color: #FFF;
+}
+
 /* Navigation Styles */
 
 .nav-btn,
