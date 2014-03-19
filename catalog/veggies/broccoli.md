@@ -1,5 +1,5 @@
 ---
-layout: products
+layout: catalog
 category: veggies
 name: Broccoli
 classification: Brassica oleracea

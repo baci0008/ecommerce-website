@@ -1,5 +1,5 @@
 ---
-layout: products
+layout: catalog
 category: fruit
 name: Strawberries
 classification: Accessory fruit

@@ -1,5 +1,5 @@
 ---
-layout: products
+layout: catalog
 category: fruit
 name: Lemon
 classification: Hesperidium

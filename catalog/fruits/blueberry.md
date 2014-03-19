@@ -1,5 +1,5 @@
 ---
-layout: products
+layout: catalog
 category: fruit
 name: Blueberries
 classification: True Berry
@@ -7,9 +7,6 @@ phytochemical: Anthocyanins / Flavonoids
 image: fruits/blueberry.jpg
 ---
 
-#Blueberries
-#####Classification: True Berry
-#####Phytochemical: Anthocyanins / Flavonoids
 
 *The blueberry is the northwest most nutritious food. Full of noble metals and antioxidants. The healthiest berry you can eat.*
 

@@ -6,8 +6,33 @@ layout: default
 
 <nav>
 	<ul>
-			<li><a href="{{site.baseurl}}/catalog/fruits/index.html">Fruits</a></li>
-			<li><a href="{{site.baseurl}}/catalog/veggies/index.html">Veggies</a></li>
+			<li><a href="{{site.baseurl}}/catalog/fruits/index.html">Fruits</a>
+				{% if page.category == 'fruit' or page.url == '/catalog/fruits/' %}
+					<ul>
+						{% for catalog in site.pages %}
+							{% if catalog.category == 'fruit' %}
+								<li>
+									<a href="{{site.baseurl}}{{catalog.url}}">{{catalog.name}}</a>
+								</li>
+							{% endif %}
+						{% endfor %}	
+					</ul>
+				{% endif %}
+			</li>
+			<li>
+				<a href="{{site.baseurl}}/catalog/veggies/index.html">Veggies</a>
+				{% if page.category == 'veggies' or page.url == '/catalog/veggies/' %}
+					<ul>
+						{% for catalog in site.pages %}
+							{% if catalog.category == 'veggies' %}
+								<li>
+									<a href="{{site.baseurl}}{{catalog.url}}">{{catalog.name}}</a>
+								</li>
+							{% endif %}
+						{% endfor %}	
+					</ul>
+				{% endif %}
+			</li>
 	</ul>
 </nav>
 	
