@@ -15,3 +15,16 @@ meta: Our catalog about organic products-fruits.
 </div>
 
 {% include promo-large.html %}
+
+<ul>
+	{% for catalog in site.pages %}
+		{% if catalog.category == 'fruits' %}
+			<li>
+			<a href="{{sire.baseurl}}{{catalog.url}}">
+				<img src="{{site.baseurl}}/images/{{catalog.image}}" alt="">
+				{{catalog.name}}
+			</a>
+			</li>
+		{% endif %}
+	{% endfor %}	
+</ul>
