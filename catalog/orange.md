@@ -1,6 +1,8 @@
 ---
 layout: dinosaurs
-category: fruits
+category: fruit
+classification: Hesperidium
+phytochemical: Vitamin C / Flavonoids
 ---
 
 *Blood Orange*
