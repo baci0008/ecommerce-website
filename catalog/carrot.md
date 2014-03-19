@@ -2,7 +2,7 @@
 layout: catalog
 category: veggies
 name: Carrot
-species: D. carota
+classification: D. carota
 phytochemical: Beta Carotene
 image: veggies/carrot.jpg
 ---

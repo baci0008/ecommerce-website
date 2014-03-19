@@ -2,7 +2,7 @@
 layout: catalog
 category: veggies
 name: Broccoli
-species: Brassica oleracea
+classification: Brassica oleracea
 phytochemical: Folic Acid / Glucosinolates
 image: veggies/broccoli.jpg
 ---

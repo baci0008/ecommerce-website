@@ -2,7 +2,7 @@
 layout: catalog
 category: veggies
 name: Onions
-species: A. cepa
+classification: A. cepa
 phytochemical: Allyl Sulfides
 image: veggies/onion.jpg
 ---

@@ -2,7 +2,7 @@
 layout: catalog
 category: veggies
 name: Tomatoes
-species: S. lycopersicum
+classification: S. lycopersicum
 phytochemical: Lycopene
 image: veggies/tomato.jpg
 ---

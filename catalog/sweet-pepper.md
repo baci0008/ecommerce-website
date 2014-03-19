@@ -2,7 +2,7 @@
 layout: catalog
 category: veggies
 name: Sweet Pepper
-species: Capsicum annuum
+classification: Capsicum annuum
 phytochemical: Vitamin C
 image: veggies/greenpepper.jpg
 ---
