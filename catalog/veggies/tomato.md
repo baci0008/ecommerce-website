@@ -1,5 +1,5 @@
 ---
-layout: catalog
+layout: products
 category: veggies
 name: Tomatoes
 classification: S. lycopersicum

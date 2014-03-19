@@ -2,15 +2,12 @@
 layout: default
 ---
 
-<strong>Products</strong>
+<strong>Catalog</strong>
 
 <nav>
 	<ul>
-		{% for catalog in site.catalog %}
-			<li>
-				<a href="{{site.baseurl}}/catalog/{{catalog.folder}}/">{{catalog.name}}</a>
-			</li>
-		{% endfor %}
+			<li><a href="{{site.baseurl}}/catalog/fruits/index.html">Fruits</a></li>
+			<li><a href="{{site.baseurl}}/catalog/veggies/index.html">Veggies</a></li>
 	</ul>
 </nav>
 	

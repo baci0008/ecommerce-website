@@ -1,5 +1,5 @@
 ---
-layout: catalog
+layout: products
 category: fruit
 name: Blueberries
 classification: True Berry
