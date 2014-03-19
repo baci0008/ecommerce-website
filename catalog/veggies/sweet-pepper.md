@@ -9,7 +9,7 @@ image: veggies/greenpepper.jpg
 
 *Sweet peppers come originally from South and Central America and belong to the Solanaceae (nightshade) family.*
 
-##Qualities 
+###Qualities 
  
 - The various varieties of sweet pepper differ greatly in color, shape and size. Sweet peppers are often green or red in color, but sometimes also yellow, white, purple or black. 
 - The pungent flavor of the sweet pepper is derived from the alkaloid capsaicin. However, the capsaicin content of sweet peppers is not very high, so their flavor is quite mild. 

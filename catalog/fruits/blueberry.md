@@ -9,7 +9,7 @@ image: fruits/blueberry.jpg
 
 *The blueberry is the northwest most nutritious food. Full of noble metals and antioxidants. The healthiest berry you can eat.*
 
-##Qualities 
+###Qualities 
  
 - Our Blueberries grow naturally organic high in the foothills and mountains of the Pacific Northwest. 
 - Are most often smaller in size and possess a unique tangy. 

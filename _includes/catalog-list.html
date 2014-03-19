@@ -2,8 +2,8 @@
 	{% for catalog in site.pages %}
 		{% if catalog.category == include.category %}
 			<li>
-			<a href="{{sire.baseurl}}{{catalog.url}}">
-				<img src="{{site.baseurl}}/images/{{catalog.image}}" alt="">
+			<a href="{{site.baseurl}}{{catalog.url}}">
+				<img src="{{site.baseurl}}/images/{{catalog.image}}" alt="Photo of {{planet.title}}">
 				{{catalog.name}}
 			</a>
 			</li>

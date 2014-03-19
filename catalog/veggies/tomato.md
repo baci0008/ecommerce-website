@@ -9,7 +9,7 @@ image: veggies/tomato.jpg
 
 *Tomatoes are widely known for their outstanding antioxidant content*
 
-##Qualities 
+###Qualities 
  
 - The tomato is consumed in diverse ways, including raw, as an ingredient in many dishes, sauces, salads, and drinks.
 - While it is botanically a fruit, it is considered a vegetable for culinary purposes. 

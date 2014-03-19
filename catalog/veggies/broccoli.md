@@ -9,7 +9,7 @@ image: veggies/broccoli.jpg
 
 *Broccoli is a result of careful breeding of cultivated leafy cole crops in the Northern Mediterranean*
 
-##Qualities 
+###Qualities 
  
 - Broccoli has large flower heads, usually green in color, arranged in a tree-like structure on branches sprouting from a thick, edible stalk. 
 - Broccoli can provide you with some special cholesterol-lowering benefits if you will cook it by steaming.  

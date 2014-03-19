@@ -9,7 +9,7 @@ image: fruits/grapes.jpg
 
 *The combination of unique texture and sweet, tart flavor has made grapes an ever popular between-meal snack as well as a refreshing addition to both fruit and vegetable salads.*
 
-##Qualities 
+###Qualities 
  
 - A grape is a fruiting berry of the deciduous woody vines of the botanical genus Vitis. 
 - Grapes can be eaten raw or they can be used for making wine, jam, juice, jelly, grape seed extract, raisins, vinegar, and grape seed oil. 

@@ -9,7 +9,7 @@ image: veggies/onion.jpg
 
 *Onions contain phenolics and flavonoids that have potential anti-inflammatory, anti-cholesterol, anticancer and antioxidant properties.*
 
-##Qualities 
+###Qualities 
  
 - The onion is most frequently a biennial or a perennial plant, but is usually treated as an annual and harvested in its first growing season.
 - The onion plant has a fan of hollow, bluish-green leaves and the bulb at the base of the plant begins to swell when a certain day-length is reached.

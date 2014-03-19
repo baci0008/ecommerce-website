@@ -9,7 +9,7 @@ image: fruits/bloodorange.jpg
 
 *The blood orange means just that; can be deep red flesh interior sweet yet tart.*
 
-##Qualities 
+###Qualities 
  
 - Sweet but can be tart juicy blood oranges have red interiors of varying intensity. 
 - Blood oranges are grown here in southern California.

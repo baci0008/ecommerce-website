@@ -9,7 +9,7 @@ image: fruits/lemon.jpg
 
 *Meyer Lemons are amazing! They have a sweet acidic flavor, full of juice with a thin and dark yellow skin.*
 
-##Qualities 
+###Qualities 
  
 - Meyer lemons are sweeter, less acidic and much more juice than other varieties such as Eureka lemon. 
 - Meyer lemons have a thin skin and gets dark yellow when completely ripe.

@@ -9,7 +9,7 @@ image: fruits/strawberry.jpg
 
 *Strawberries are low in carbs, fat and calories, and studies have shown that they may lower the risk of certain types of cancer.*
 
-##Qualities 
+###Qualities 
  
 - The fruit is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness. 
 - It is consumed in large quantities, either fresh or in such prepared foods as preserves, fruit juice, pies, ice creams, milkshakes, and chocolates. 
