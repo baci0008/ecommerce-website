@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<strong>Products</strong>
+
+<nav>
+	<ul>
+		{% for catalog in site.catalog %}
+			<li>
+				<a href="{{site.baseurl}}/catalog/{{catalog.folder}}/">{{catalog.name}}</a>
+			</li>
+		{% endfor %}
+	</ul>
+</nav>
+	
+
+{{content}}
