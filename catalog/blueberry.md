@@ -7,16 +7,14 @@ phytochemical: Anthocyanins / Flavonoids
 image: fruits/blueberry.jpg
 ---
 
-*The blood orange means just that; can be deep red flesh interior sweet yet tart.*
+*The blueberry is the northwest most nutritious food. Full of noble metals and antioxidants. The healthiest berry you can eat.*
 
 ##Qualities 
  
-- Sweet but can be tart juicy blood oranges have red interiors of varying intensity. 
-- Blood oranges are grown here in southern California.
-- Blood oranges are good to eat like any other orange, or juice them; also beautiful in fruit salads. 
+- Our Blueberries grow naturally organic high in the foothills and mountains of the Pacific Northwest. 
+- Are most often smaller in size and possess a unique tangy. 
+- Blueberries grow on low bushes that produce fruit with a slight white powdered look covering a berry that can range in color from sky blue to dark blue. 
 
-Orders of 8 lbs contain approx. 12 oranges.
+Orders of 4.5 lbs  or 9 lbs. 
 
-Our online store is now with LocalHarvest for secure shopping
-
-![Blood Orange](http://upload.wikimedia.org/wikipedia/commons/5/5d/BloodOrange.jpg)
+![Blueberries](http://upload.wikimedia.org/wikipedia/commons/8/88/PattsBlueberries.jpg)
