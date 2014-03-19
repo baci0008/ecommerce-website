@@ -4,8 +4,8 @@ category: fruit
 name: Blood Orange
 classification: Hesperidium
 phytochemical: Vitamin C / Flavonoids
+image: fruits/bloodorange.jpg
 ---
-
 
 *The blood orange means just that; can be deep red flesh interior sweet yet tart.*
 
@@ -18,3 +18,5 @@ phytochemical: Vitamin C / Flavonoids
 Orders of 8 lbs contain approx. 12 oranges.
 
 Our online store is now with LocalHarvest for secure shopping
+
+![Blood Orange](http://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BloodOrange.jpg/320px-BloodOrange.jpg)
