@@ -1,0 +1,12 @@
+<ul>
+	{% for catalog in site.pages %}
+		{% if catalog.category == include.category %}
+			<li>
+			<a href="{{sire.baseurl}}{{catalog.url}}">
+				<img src="{{site.baseurl}}/images/{{catalog.image}}" alt="">
+				{{catalog.name}}
+			</a>
+			</li>
+		{% endif %}
+	{% endfor %}	
+</ul>

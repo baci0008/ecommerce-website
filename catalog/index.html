@@ -11,36 +11,16 @@ meta: Our catalog about organic products-fruits.
 	</div>	
 	
 	<div class="unit gutter unit-s-1 unit-m-1-2 unit-l-1-3"> 	
-	<ul>
-		{% for catalog in site.pages %}
-			{% if catalog.category == 'fruit' %}
-				<li>
-				<a href="{{sire.baseurl}}{{catalog.url}}">
-					<img src="{{site.baseurl}}/images/{{catalog.image}}" alt="">
-					{{catalog.name}}
-				</a>
-				</li>
-			{% endif %}
-		{% endfor %}	
-	</ul>
+		<h3>Fruits</h3>
+		{% include catalog-list.html category="fruit" %}
 	</div>
-</div>
 
-<div class="unit gutter unit-s-1 unit-m-1-2 unit-l-1-3">
-		<ul>
-		{% for catalog in site.pages %}
-			{% if catalog.category == 'veggies' %}
-				<li>
-				<a href="{{sire.baseurl}}{{catalog.url}}">
-					<img src="{{site.baseurl}}/images/{{catalog.image}}" alt="">
-					{{catalog.name}}
-				</a>
-				</li>
-			{% endif %}
-		{% endfor %}	
-	</ul>
+	<div class="unit gutter unit-s-1 unit-m-1-2 unit-l-1-3">
+		<h3>Veggies</h3>
+		{% include catalog-list.html category="veggies" %}
+	</div>
+	
 </div>
-
 
 {% include promo-large.html %}
 
