@@ -18,7 +18,7 @@ meta: Our catalog about organic products-fruits.
 
 <ul>
 	{% for catalog in site.pages %}
-		{% if catalog.category == 'fruits' %}
+		{% if catalog.category == 'fruit' %}
 			<li>
 			<a href="{{sire.baseurl}}{{catalog.url}}">
 				<img src="{{site.baseurl}}/images/{{catalog.image}}" alt="">

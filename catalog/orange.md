@@ -1,12 +1,13 @@
 ---
-layout: dinosaurs
+layout: catalog
 category: fruit
+name: Blood Orange
 classification: Hesperidium
 phytochemical: Vitamin C / Flavonoids
 ---
 
-*Blood Orange*
-The blood orange means just that; can be deep red flesh interior sweet yet tart.
+
+*The blood orange means just that; can be deep red flesh interior sweet yet tart.*
 
 ##Qualities 
  
