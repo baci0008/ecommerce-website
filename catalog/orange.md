@@ -19,4 +19,4 @@ Orders of 8 lbs contain approx. 12 oranges.
 
 Our online store is now with LocalHarvest for secure shopping
 
-![Blood Orange](http://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BloodOrange.jpg/320px-BloodOrange.jpg)
+![Blood Orange](http://upload.wikimedia.org/wikipedia/commons/5/5d/BloodOrange.jpg)
