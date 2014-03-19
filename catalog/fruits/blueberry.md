@@ -7,6 +7,10 @@ phytochemical: Anthocyanins / Flavonoids
 image: fruits/blueberry.jpg
 ---
 
+#Blueberries
+#####Classification: True Berry
+#####Phytochemical: Anthocyanins / Flavonoids
+
 *The blueberry is the northwest most nutritious food. Full of noble metals and antioxidants. The healthiest berry you can eat.*
 
 ###Qualities 
@@ -18,3 +22,4 @@ image: fruits/blueberry.jpg
 Orders of 4.5 lbs  or 9 lbs. 
 
 ![Blueberries](http://upload.wikimedia.org/wikipedia/commons/8/88/PattsBlueberries.jpg)
+
