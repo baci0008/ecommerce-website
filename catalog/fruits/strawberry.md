@@ -6,6 +6,7 @@ classification: Accessory fruit
 phytochemical: Anthocyanins / Flavonoids
 image: fruits/strawberry.jpg
 description: Strawberries are low in carbs, fat and calories, and studies have shown that they may lower the risk of certain types of cancer.
+price: $4.25 lb
 
 ---
   

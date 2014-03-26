@@ -6,6 +6,7 @@ classification: True Berry
 phytochemical: Anthocyanins / Flavonoids
 image: fruits/blueberry.jpg
 description: The blueberry is the northwest most nutritious food. Full of noble metals and antioxidants. The healthiest berry you can eat.
+price: $1.50 lb
 ---
 
 1. Our Blueberries grow naturally organic high in the foothills and mountains of the Pacific Northwest. 

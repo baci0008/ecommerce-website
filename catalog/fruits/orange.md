@@ -6,6 +6,7 @@ classification: Hesperidium
 phytochemical: Vitamin C / Flavonoids
 image: fruits/bloodorange.jpg
 description: The blood orange means just that; can be deep red flesh interior sweet yet tart.
+price: $1.25 lb
 ---
 
 1. Sweet but can be tart juicy blood oranges have red interiors of varying intensity. 

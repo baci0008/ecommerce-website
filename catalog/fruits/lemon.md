@@ -6,6 +6,7 @@ classification: Hesperidium
 phytochemical: Vitamin C / Flavonoids
 image: fruits/lemon.jpg
 description: Meyer Lemons are amazing! They have a sweet acidic flavor, full of juice with a thin and dark yellow skin.
+price: $2.50 lb
 ---
  
 1. Meyer lemons are sweeter, less acidic and much more juice than other varieties such as Eureka lemon. 

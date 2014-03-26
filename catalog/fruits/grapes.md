@@ -6,6 +6,7 @@ classification: True Berry
 phytochemical: Anthocyanins / Flavonoids
 image: fruits/grapes.jpg
 description: The combination of unique texture and sweet, tart flavor has made grapes an ever popular between-meal snack as well as a refreshing addition to both fruit and vegetable salads.
+price: $3.50 lb
 ---
  
 1. A grape is a fruiting berry of the deciduous woody vines of the botanical genus Vitis. 
