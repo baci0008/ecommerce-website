@@ -6,6 +6,7 @@ classification: D. carota
 phytochemical: Beta Carotene
 image: veggies/carrot.jpg
 description: Carrot roots are eaten as a vegetable and can be consumed fresh or cooked. Carrot juice is consumed as a beverage. The leaves of the plant can be used as feed for animals.
+price: $0.90 lb
 ---
 
 1. The carrot is a root vegetable, usually orange in colour, though purple, red, white, and yellow varieties exist.

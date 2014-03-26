@@ -6,6 +6,7 @@ classification: Capsicum annuum
 phytochemical: Vitamin C
 image: veggies/greenpepper.jpg
 description: Sweet peppers come originally from South and Central America and belong to the Solanaceae (nightshade) family.
+price: $2.10 lb
 ---
 
 1. The various varieties of sweet pepper differ greatly in color, shape and size. Sweet peppers are often green or red in color, but sometimes also yellow, white, purple or black. 

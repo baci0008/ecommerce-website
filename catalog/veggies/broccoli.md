@@ -6,6 +6,7 @@ classification: Brassica oleracea
 phytochemical: Folic Acid / Glucosinolates
 image: veggies/broccoli.jpg
 description: Broccoli is a result of careful breeding of cultivated leafy cole crops in the Northern Mediterranean
+price: $1.00 lb
 ---
 
 1. Broccoli has large flower heads, usually green in color, arranged in a tree-like structure on branches sprouting from a thick, edible stalk. 

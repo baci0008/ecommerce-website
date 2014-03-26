@@ -6,6 +6,7 @@ classification: S. lycopersicum
 phytochemical: Lycopene
 image: veggies/tomato.jpg
 description: Tomatoes are widely known for their outstanding antioxidant content
+price: $1.90 lb
 ---
 
 1. The tomato is consumed in diverse ways, including raw, as an ingredient in many dishes, sauces, salads, and drinks.

@@ -6,6 +6,7 @@ classification: A. cepa
 phytochemical: Allyl Sulfides
 image: veggies/onion.jpg
 description: Onions contain phenolics and flavonoids that have potential anti-inflammatory, anti-cholesterol, anticancer and antioxidant properties.
+price: $1.45 lb
 ---
 
 1. The onion is most frequently a biennial or a perennial plant, but is usually treated as an annual and harvested in its first growing season.
