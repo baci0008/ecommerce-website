@@ -184,6 +184,17 @@ a:active {
 	border-bottom-color:  rgba(128,10,76,1);
 }
 
+a:hover,
+a:active {
+	outline: none;
+}
+
+a:focus,
+input:focus,
+button:focus {
+	outline: 3px solid #FFF;
+}
+
 /* Lists */
 
 /* Symbol */

@@ -4,11 +4,12 @@ title: Search
 meta: It is a list of products from the catalog. 
 ---
 
-<div class="grid">
-	<div class="unit unit-s-1 unit-m-1 unit-l-1-3"> 
-		<h1>Results</h1>
-		{% include catalog-list.html category="fruit" %}
-		{% include catalog-list.html category="veggies" %}
+<main role="main">
+	<div class="grid">
+		<div class="unit unit-s-1 unit-m-1 unit-l-1-3"> 
+			<h1>Results</h1>
+			{% include catalog-list.html category="fruit" %}
+			{% include catalog-list.html category="veggies" %}
+		</div>
 	</div>
-	
-</div>
+</main>
