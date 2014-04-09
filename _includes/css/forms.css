@@ -1,6 +1,3 @@
-@charset "UTF-8";
-/* Forms */
-
 form{
 	width:500px;
 	margin:0 auto;
@@ -29,7 +26,6 @@ input[type=button], input[type=button]:hover {
 	background: -o-linear-gradient(top, #e4f1f9 0%,#d5e7f3 100%); 
 	background: -ms-linear-gradient(top, #e4f1f9 0%,#d5e7f3 100%); 
 	background: linear-gradient(top, #e4f1f9 0%,#d5e7f3 100%); 
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e4f1f9', endColorstr='#d5e7f3',GradientType=0 ); 
 	color: #999;
 	cursor: pointer;
 }
