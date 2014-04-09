@@ -17,7 +17,7 @@ meta: Contact Information Page.
 		<p>Fax: (831)401-2418</p>
 		<p>Please note that we do not accept orders by fax or by check. Any orders mailed or faxed to the above address or fax number will not be processed.</p>
 		
-		<form  action="" method="POST" enctype="multipart/form-data">
+		<form action="{{site.baseurl}}/thank-you-form/" method="get" enctype="multipart/form-data">
 			<input type="hidden" name="action" value="submit"/> Your name:<br />
 			<input name="name" type="text" value="" size="30"/> <br /> Your email:<br />
 			<input name="email" type="text" value="" size="30"/> <br /> Your message:<br />
