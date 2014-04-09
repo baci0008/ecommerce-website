@@ -241,7 +241,3 @@ a, a:link{
 ul li:before {
 	content: none;
 }
-
-.lighter {
-	margin-top: 1.5rem;
-}
