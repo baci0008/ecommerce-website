@@ -74,4 +74,4 @@ User testing was conducted by Thalia Bacilio on Wednesday April 2, 2014 between 
 ### Minor, Annoying, Won’t Hinder Completion
 
 - Add style to my submenu.
-- Add header and footer to my shoppin cart page. 
+- Add header and footer to my shopping cart page. 
