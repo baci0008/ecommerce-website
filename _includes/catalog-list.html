@@ -1,12 +1,16 @@
-<ul>
-	{% for catalog in site.pages %}
-		{% if catalog.category == include.category %}
-			<li>
-			<a href="{{site.baseurl}}{{catalog.url}}">
-				<img src="{{site.baseurl}}/images/{{catalog.image}}" alt="Photo of {{catalog.name}}">
-				{{catalog.name}}
-			</a>
-			</li>
-		{% endif %}
-	{% endfor %}	
-</ul>
+<div class="grid">
+	<div class="unit unit-s-1 unit-m-1 unit-l-1"> 
+		<ul>
+			{% for catalog in site.pages %}
+				{% if catalog.category == include.category %}
+					<li>
+					<a href="{{site.baseurl}}{{catalog.url}}">
+						<img src="{{site.baseurl}}/images/{{catalog.image}}" alt="Photo of {{catalog.name}}">
+						{{catalog.name}}
+					</a>
+					</li>
+				{% endif %}
+			{% endfor %}	
+		</ul>
+	</div>
+</div>
