@@ -170,6 +170,7 @@ a:link {
 	color: rgba(128,10,76,1);
 	text-decoration: none;
 	transition: all 200ms linear;
+  font-family: sans-serif;
 }
 
 a:visited {
@@ -213,6 +214,7 @@ ol {
     counter-reset:li;
     margin-left:0; 
     padding-left:0; 
+    font-family: "Helvetica Neue", Arial, sans-serif;
 }
 ol > li {
     position:relative; 

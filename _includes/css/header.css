@@ -147,13 +147,12 @@ overflow: hidden;
 
 .submenu{
   background: #000;
-  height: 14.5rem;
+  height: 13rem;
   margin-top: 30px;
   margin-bottom: 30px;
   padding-top: 10px;
   padding-bottom: 10px;
-  font-family: 'bebas_neueregular';
-  font-size: 23px;
+  font-size: 19px;
 }
 
 .submenu a:hover {
