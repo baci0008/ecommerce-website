@@ -1,5 +1,6 @@
 ---
 layout: catalog
+title: Grapes
 category: fruit
 name: Grapes
 classification: True Berry

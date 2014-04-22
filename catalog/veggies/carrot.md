@@ -1,5 +1,6 @@
 ---
 layout: catalog
+title: Carrot
 category: veggies
 name: Carrot
 classification: D. carota

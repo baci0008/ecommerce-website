@@ -1,5 +1,6 @@
 ---
 layout: catalog
+title: Blood Orange
 category: fruit
 name: Blood Orange
 classification: Hesperidium

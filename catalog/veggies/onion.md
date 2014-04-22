@@ -1,5 +1,6 @@
 ---
 layout: catalog
+title: Onion
 category: veggies
 name: Onions
 classification: A. cepa

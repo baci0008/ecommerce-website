@@ -1,5 +1,6 @@
 ---
 layout: catalog
+title: Broccoli
 category: veggies
 name: Broccoli
 classification: Brassica oleracea

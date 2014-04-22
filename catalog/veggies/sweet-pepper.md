@@ -1,5 +1,6 @@
 ---
 layout: catalog
+title: Sweet Pepper
 category: veggies
 name: Sweet Pepper
 classification: Capsicum annuum
