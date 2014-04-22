@@ -1,14 +1,11 @@
-/* CSS */
-
 .masthead {
-	height: 16rem;
 	background-color: rgba(204,179,4,.4);
-	padding: 5%;
+	padding: 1.5%;
 }
 
 .logo {
 	margin: auto;
-	width: 80%;
+	width: 180px;
 	padding-bottom: 1rem;
 }
 
@@ -50,177 +47,100 @@ overflow: hidden;
 }
 
 /* Navigation Styles */
-
-.nav-btn,
-.nav-btn:link,
-.nav-btn:visited{
-	display: block;
-	height: 40px;
-	width: 40px;
-	position: absolute;
-	top: 10px;	
-	right: 5%;
-	font-family: 'bebas_neueregular';
-	background: #fff url('../images/nav-icon.svg') no-repeat center center;
-	/* background-color || background-image || background-repeat || background-position*/
+#cssmenu {
+  background: #000;
+  width: auto;
+}
+#cssmenu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  display: block;
+  zoom: 1;
+}
+#cssmenu ul:after {
+  content: ' ';
+  display: block;
+  font-size: 0;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+#cssmenu ul li {
+  float: left;
+  display: block;
+  padding: 0;
+}
+#cssmenu ul li a {
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+  padding: 15px 25px;
+  font-family: 'bebas_neueregular';
+  font-size: 30px;
+  position: relative;
+  -webkit-transition: color .25s;
+  -moz-transition: color .25s;
+  -ms-transition: color .25s;
+  -o-transition: color .25s;
+  transition: color .25s;
+}
+#cssmenu ul li a:hover {
+  color: #CC3;
+}
+#cssmenu ul li a:hover:before {
+  width: 100%;
 }
 
-.nav-btn:hover,
-.nav-btn:focus,
-.nav-btn:active{
-	background-color: #ccc;
+#cssmenu ul li a:before {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 3px;
+  width: 0;
+  background: rgba(204,36,131,1);
+  -webkit-transition: width .25s;
+  -moz-transition: width .25s;
+  -ms-transition: width .25s;
+  -o-transition: width .25s;
+  transition: width .25s;
 }
-
-.nav-btn[data-state="active"] {
-	background: #ccc url('../images/nav-close.svg') no-repeat center center;
+#cssmenu ul li.last > a:after,
+#cssmenu ul li:last-child > a:after {
+  display: none;
 }
-
-.nav a, 
-.nav a:link,
-.nav a:visited{
-	display: block;
-	padding: 1rem;
-	text-align:center;
-	color: #fff;
-	text-decoration: none;
-	font-family: 'bebas_neueregular';
+#cssmenu ul li.active a {
+  color: rgba(204,36,131,1);
 }
-
-.nav a:hover,
-.nav a:focus,
-.nav a:active{
-	background-color: #eae8e1;
+#cssmenu ul li.active a:before {
+  width: 100%;
 }
-
-/* Toggle Nav*/
-
-.nav-top{
-	max-height: 0;
-	-moz-transition: all 250ms linear;
-	-o-transition: all 250ms linear;
-	-webkit-transition: all 250ms linear;
-	transition: all 250ms linear;
-	overflow:hidden;
-}
-
-.nav-top[data-state="expanded"]{
-	max-height: 14rem;
-}
-	
-@media only screen and (min-width: 25em){
-	.nav{
-		overflow: auto;
-	}
-	
-	.nav li{
-		float: left;
-		width: 33.33%;
-	}
-	
-	.nav-btn,
-	.nav-btn:link,
-	.nav-btn:visited{
-		display: none;
-	}
-	
-	.nav-top{
-		max-height: 5rem;
-	}
-	
-	.logo {
-		width: 80px;
-	}
-}
-
-@media only screen and (min-width: 35em){
-	.nav{
-		background-color: #000;
-		text-align: center;
-	}
-	
-	.nav li{
-		display: inline-block;
-		float: none;
-		margin: 0;
-		width:auto;
-	}
-	
-	.nav a, 
-	.nav a:link,
-	.nav a:visited{
-		border-top: 0;
-	}
-	
-	.nav-top{
-		width: 70%;
-	}
-
-	.navigation{
-		float: left;
-		width: 70%;
-	}
-	
-	header{
-		overflow: auto;
-	}
-	
-	.logo {
-		float: right;
-		padding: 0;
-	}
-	
-	.masthead {
-		height: 10rem;
-	}
-}
-
-@media only screen and (min-width: 75em){
-	header{
-		float: left;
-		width: 25%;
-	}
-	
-	.nav-top{
-		float: none;
-		clear: both;
-		max-height: 15rem;	
-	}
-	
-	.nav-top li{
-		display: block;
-	}
-	
-	.nav a,
-	.nav a:link,
-	.nav a:visited{
-		text-align: left;
-	}
-	
-	
-	.logo {
-		width: 80px;
-		float: left;
-	}
-	
-	.masthead {
-		height: 100rem;
-		padding: 2%;
-	}	
-}	
-	
-@media only screen and (min-width: 60em){
-	
-	.logo {
-		width: 80px;
-		float: right;
-	}
-}
-
-a, a:link{
-	border: none;
-}
-
-
-ul li:before {
-	content: none;
+@media screen and (max-width: 768px) {
+  #cssmenu ul li {
+    float: none;
+  }
+  #cssmenu ul li a {
+    width: 100%;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  #cssmenu ul li a:after {
+    display: none;
+  }
+  #cssmenu ul li a:before {
+    height: 1px;
+    background: #FFF;
+    width: 100%;
+	opacity: .5;
+  }
+  
+  #cssmenu ul li.last > a:before,
+  #cssmenu ul li:last-child > a:before {
+    display: none;
+  }   
+  
 }
