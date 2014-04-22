@@ -144,3 +144,18 @@ overflow: hidden;
   }   
   
 }
+
+.submenu{
+  background: #000;
+  height: 14.5rem;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: 'bebas_neueregular';
+  font-size: 23px;
+}
+
+.submenu a:hover {
+    color: #FFF;
+}
