@@ -20,6 +20,9 @@ p{
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
+.space{
+  margin: 70px 30px;
+}
 
 .yotta {
   font-size: 11.3018rem;
