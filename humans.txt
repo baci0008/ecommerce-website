@@ -1,19 +1,77 @@
+# humanstxt.org
+
 /* TEAM */
 
 Designer & Developer: Thalia Bacilio
-Email: aly_pamt@hotmail.com
+Email: baci0008@algonquinlice.com
 Twitter: @ThaliaBacilio
 Location: Ottawa, Canada
 
 
-
 /* THANKS */
-
 Thanks to God and my husband because they believe in me. Thanks for all their support!
 
 
 /* SITE */
-Last update: 2013/12/10
-Standards: HTML5, CSS3
-Components: Modernizr, Jquery, etc...
-Software: Adobe, Livereload, Sublime Text 2
+Last update: 04/23/2014
+Standards: HTML5, CSS,
+Components: Modernizr, etc...
+Software: Adobe, Sublime Text 2
+
+
+/* IMAGES */
+Home 
+Apples
+© 2006 funXite.com http://www.funxite.com/get/downloads/wallpapers/food-wallpapers/red-apples.htm 
+Pears 
+© 2004 Admin http://www.healthyfoodhouse.com/pears-super-fruit-many-disorders-diseases/3/
+Oranges
+© 2004 Ellen Levy Finch http://en.wikipedia.org/wiki/File:OrangeBloss_wb.jpg
+
+About 
+Quote
+© 2010 Pixabay http://pixabay.com/en/organic-quote-76721/
+
+Catalog 
+Promo Large-Juices
+© 2004 Flexi Lexi http://flexilexi.ca/new/juice-cleanse/
+
+Fruits
+Blueberries
+© 2008 PhreddieH3 http://en.wikipedia.org/wiki/File:PattsBlueberries.jpg
+Grapes
+© 2010 BrownyCat http://en.wikipedia.org/wiki/File:TenderGrapes.JPG
+Lemon
+© 2005 André Karwath http://en.wikipedia.org/wiki/File:Lemon.jpg
+Blood Orange
+© 2009 Silentcynic http://en.wikipedia.org/wiki/File:BloodOrange.jpg
+Strawberries
+© 2012 David R. Tribble http://en.wikipedia.org/wiki/File:Strawberries-6354.jpg
+
+Veggies
+Broccoli
+© 2004 Jon Sullivan http://en.wikipedia.org/wiki/File:Fractal_Broccoli.jpg
+Carrot
+© 2014 Pixabayhttp://pixabay.com/en/carrots-variety-vegetables-76653/
+Onions
+© 2013 Colin http://en.wikipedia.org/wiki/File:Mixed_onions.jpg
+Sweet Pepper
+© 2004 Aldi http://en.wikipedia.org/wiki/File:Capsicum1.jpg
+Tomatoes
+© 2012 Scott Bauer http://en.wikipedia.org/wiki/File:NRCSHI07018_-_Hawaii_(716072)(NRCS_Photo_Gallery).jpg
+
+Cart
+Fruits
+© 2011-2014 Wood Stock Fruit Festival http://www.thewoodstockfruitfestival.com/profile/GaryParent
+Veggies
+© 2014 lynbravohttp://kgi.org/images/fresh-picked-veggies-destined-stir-fry-wok-when-you-can-walk-out-your-back-door-and-gather
+
+Logo 
+Tuttifruitree
+© 2014 Thalia Bacilio 
+
+Banner-Home Page 
+© 2014 Thalia Bacilio 
+
+Banner-About Page 
+© 2014 Thalia Bacilio 
