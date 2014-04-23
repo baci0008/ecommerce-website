@@ -250,12 +250,12 @@ ol ol li:last-child {margin-bottom:0;}
 dt {
 	font-weight: bold;
 	color: rgba(204,179,4,1);
-  font-family:"Helvetica Neue", Arial, sans-serif;
+  	font-family:"Helvetica Neue", Arial, sans-serif;
 }
 dd {
 	background:none no-repeat left top;
 	padding-left: 50px;
-  font-family:"Helvetica Neue", Arial, sans-serif;
+  	font-family:"Helvetica Neue", Arial, sans-serif;
 }
 
 /* Blockquotes */
@@ -270,16 +270,11 @@ blockquote.style {
 /* Table */
 .table{
 		display: table;
-		margin: 2rem 2%;
 		width: 96%;
-		float: left;
-		clear: both;
+		background-color: rgba(73,146,153,.5);
+		font-family:"Helvetica Neue", Arial, sans-serif;
 }
 
-.table thead{
-	background-color: #F93;
-	color: #fff;
-}
 
 .table th,
 .table td{
@@ -287,10 +282,6 @@ blockquote.style {
 	text-align: left;
 }
 
-.table tr:nth-child(even){
-	background-color: #FC9;
-}
-
-.table tr:last-child{
-	border-bottom: 3px solid #0CC;
+.table tr:nth-child(odd){
+	background-color: rgba(73,146,153,1);
 }
