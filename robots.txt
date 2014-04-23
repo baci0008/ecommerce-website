@@ -7,4 +7,4 @@ Sitemap: http://my-website.com/seo/sitemap.xml
 
 User-agent: * 
 
-Disallow: /name-of-folder/
+Disallow: /ecommerce-website/
